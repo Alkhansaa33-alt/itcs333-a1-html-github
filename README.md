@@ -1,4 +1,4 @@
-# ITCS333 — Assignment 1: HTML Page + GitHub Workflow (2.5%)
+∫# ITCS333 — Assignment 1: HTML Page + GitHub Workflow (2.5%)
 
 Build a small two-page personal profile site in valid, semantic HTML5 **and** demonstrate the Git workflow used throughout this course.
 
